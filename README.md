@@ -14,6 +14,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Hi there 👋
+
+<h3 align="center">Hey there, I'm Md. Jaber Khan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=JaberKhanjk&label=Profile%20views&color=0e75b6&style=flat" alt="Md. Jaber Khan" />
+</p>
+
+### 📖 About me
+
+- 🔭 I’m currently working on Note Manager Web App
+- 🌱 I’m currently learning JavaScript
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+- 💬 Ask me about **Web Development** and **Data Science" related topics
+- 📫 How to reach me: md.jaberkhan66@gmail.com
+- 😄 Pronouns: his/him
+- ⚡ Fun fact: I love to learn different technical stack and languages
 
 
  ### 🕵🏻‍♂️ Conect with me
