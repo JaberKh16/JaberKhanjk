@@ -4,13 +4,14 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jaberkhanjk&label=Profile%20views&color=0e75b6&style=flat" alt="jaberkhanjk" /> </p>
 </center>
 
-### 
+### 📖 About me
+A highly energetic, disciplined and self motivational fresh graduate having an academic background in computer science engineering would like to work in a web development field while brushing up my technical and problem solving skills to gain more knowledge and experience on the field as well as well to contribute on companies growth and success.
+
+
 - 🔭 I’m currently working on **Note Manager Web App**
-
 - 🌱 I’m currently learning **JavaScript**
-
+- 👯 I’m looking to collaborate on WEB DEV Community
 - 💬 Ask me about **Web Development and Data Science Staff**
-
 - 📫 How to reach me **md.jaberkhan66@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
