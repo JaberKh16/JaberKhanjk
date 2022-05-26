@@ -1,4 +1,4 @@
-
+<!-- 
 <!--
 **JaberKhanjk/JaberKhanjk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,9 +12,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-### Hi there 👋
+
+
+<!-- ### Hi there 👋
 
 <h3 align="center">Hey there, I'm Md. Jaber Khan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
@@ -74,7 +75,7 @@ Here are some ideas to get you started:
     </td>
      <td align="center" width="96">
       <a href="#js">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"         width="48" height="48" alt="javascript" />
       </a>
       <br>Javascript
     </td>
@@ -102,14 +103,21 @@ Here are some ideas to get you started:
       </a>
       <br>C++
     </td>
-   <td align="center" width="96">
+  
+    <td align="center" width="96">
         <a href="#python">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="48" height="48" alt="python" />
+        </a>
+        <br>Python
+    </td>
+  </tr>
+   <tr>
+       <td align="center" width="96">
+        <a href="#numpy">
             <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" width="48" height="48" alt="python" />
         </a>
         <br>Numpy
     </td> 
-  </tr>
-   <tr>
       <td align="center" width="96">
       <a href="#ubuntu" >
         <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
@@ -135,3 +143,25 @@ Here are some ideas to get you started:
   
 ### 🤵 Trophy Status
 [![trophy](https://github-profile-trophy.vercel.app/?username=JaberKhanjk)](https://github.com/ryo-ma/github-profile-trophy)
+  
+  
+### GithUB Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaberKhanjk&show_icons=true&theme=radical)
+
+
+
+
+
+
+
+
+
+
+
+
+-->
+
+  
+  
+  
+  
