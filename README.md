@@ -19,7 +19,6 @@ Here are some ideas to get you started:
  ### 🕵🏻‍♂️ Conect with me
  
   <p align="center">
- 
  <a href="https://www.linkedin.com/in/jaber-khan-6310a4144/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="30" height="30"/>
 <!--   <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" alt="codepen" width="30" height="30"/> -->
  <a href="https://twitter.com/JaberK6" target="_blank"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="twitter" width="30" height="30"/>
