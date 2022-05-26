@@ -60,12 +60,7 @@ Here are some ideas to get you started:
       </a>
       <br>Javascript
     </td>
-   <td align="center" width="96">
-        <a href="#python">
-            <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" width="48" height="48" alt="python" />
-        </a>
-        <br>Numpy
-    </td> 
+   
     
   </tr>
 
@@ -89,6 +84,12 @@ Here are some ideas to get you started:
       </a>
       <br>C++
     </td>
+   <td align="center" width="96">
+        <a href="#python">
+            <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" width="48" height="48" alt="python" />
+        </a>
+        <br>Numpy
+    </td> 
   </tr>
    <tr>
       <td align="center" width="96">
