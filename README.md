@@ -29,5 +29,83 @@ Here are some ideas to get you started:
 <!--   <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> -->
   </p>
 
+  
+  
+
+
+### 👨🏻‍💻 Languages and Tools:
+<table align="center">
+  <tr>
+      <td align="center" width="96">
+      <a href="#html5">
+        <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
+      </a>
+      <br>Html5
+    </td>   
+    <td align="center" width="96">
+      <a href="#css3">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="Css3" />
+      </a>
+      <br>CSS3
+    </td>
+     <td align="center" width="96">
+      <a href="#bootstrap">
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+     <td align="center" width="96">
+      <a href="#js">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
+      </a>
+      <br>Javascript
+    </td>
+    
+  </tr>
+
+  <tr>
+     <td align="center" width="96">
+      <a href="#php" >
+        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48"
+        alt="PHP" />
+      </a>
+      <br>PHP
+    </td>
+      <td align="center" width="96">
+      <a href="#mysql">
+        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
+      </a>
+      <br>MySQL
+    </td>
+     <td align="center" width="96">
+      <a href="#c++">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="48" height="48" alt="C++" />
+      </a>
+      <br>C++
+    </td>
+  </tr>
+   <tr>
+      <td align="center" width="96">
+      <a href="#ubuntu" >
+        <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
+      </a>
+      <br>Ubuntu
+    </td>
+      <td align="center" width="96">
+      <a href="#git" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+      <td align="center"  width="96">
+      <a href="#vscode">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Vs Code" />
+      </a>
+      <br>VS Code
+  </tr>
+</table>
+  <br />  
+  
+  
 ### 🤵 Trophy Status
 [![trophy](https://github-profile-trophy.vercel.app/?username=JaberKhanjk)](https://github.com/ryo-ma/github-profile-trophy)
