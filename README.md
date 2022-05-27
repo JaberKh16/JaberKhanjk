@@ -16,8 +16,9 @@ A highly energetic, disciplined and self motivational fresh graduate having an a
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
 <a href="https://dev.to/jaberkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jaberkhan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jaber-khan-6310a4144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaber-khan-6310a4144" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jaber-khan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaber-khan-6310a4144" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/10585252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10585252" height="30" width="40" /></a>
 </p>
 
