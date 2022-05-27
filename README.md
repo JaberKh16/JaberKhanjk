@@ -28,8 +28,8 @@ A highly energetic, disciplined and self motivational fresh graduate having an a
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaberkhanjk&show_icons=true&theme=dracula" alt="jaberkhanjk" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaberkhanjk&show_icons=true&locale=en&layout=compact" alt="jaberkhanjk" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaberkhanjk&show_icons=true&locale=en&layout=compact&theme=dracula" alt="jaberkhanjk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaberkhanjk&show_icons=true&locale=en" alt="jaberkhanjk" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaberkhanjk&show_icons=true&locale=en&theme=dracula" alt="jaberkhanjk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaberkhanjk&" alt="jaberkhanjk" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaberkhanjk&theme=dracula" alt="jaberkhanjk" /></p>
