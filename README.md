@@ -9,7 +9,7 @@ A highly energetic, disciplined and self motivational fresh graduate having an a
 
 
 - 🔭 I’m currently working on **Note Manager Web App**
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **NodeJS**
 - 👯 I’m looking to collaborate on **WEB DEV Community** and **Data Science Community**
 - 💬 Ask me about **Web Development and Data Science Staff**
 - 📫 How to reach me **md.jaberkhan66@gmail.com**
